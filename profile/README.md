@@ -14,4 +14,4 @@ Network security with an AI that runs on your own hardware. Argus reads your int
 
 ---
 
-🌐 [isap-labs.com](https://isap-labs.com) · ▶ [YouTube](https://www.youtube.com/@ISAPLabs) · ✉ [support@isap-labs.com](mailto:support@isap-labs.com) · 🔒 [Report a vulnerability](https://isap-labs.com/security/)
+🌐 [isap-labs.com](https://isap-labs.com) · ▶ [YouTube](https://www.youtube.com/@ISAPLabs) · 🐘 <a rel="me" href="https://mastodon.social/@isaplabsllc">Mastodon</a> · ✉ [support@isap-labs.com](mailto:support@isap-labs.com) · 🔒 [Report a vulnerability](https://isap-labs.com/security/)
